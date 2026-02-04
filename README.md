@@ -5,7 +5,7 @@ React + TypeScript + Vite 기반 메모리 카드 뒤집기 게임.
 ## 배포
 
 배포 URL: https://ego1065.github.io/card-flip-game/  
-메인 브랜치(`main`)에 푸시하면 GitHub Actions가 빌드 후 GitHub Pages에 자동 배포된다.
+메인 브랜치(`main`)에 푸시하면 GitHub Actions가 빌드 후 GitHub Pages에 자동 배포된다. PR 생성 시 CI로 빌드 검증이 실행된다.
 
 ---
 
