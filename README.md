@@ -82,3 +82,5 @@ export default defineConfig([
   },
 ])
 ```
+
+CI trigger for ruleset
