@@ -84,3 +84,4 @@ export default defineConfig([
 ```
 
 CI trigger for ruleset
+test protected branch ruleset
