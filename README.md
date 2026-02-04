@@ -82,3 +82,5 @@ export default defineConfig([
   },
 ])
 ```
+
+test protected branch ruleset
